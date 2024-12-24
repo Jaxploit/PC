@@ -1,4 +1,4 @@
-cd C:\Windows\
+cd C:\Windows\System32\
 @echo off
 cls
 
